@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assign2</string>
+    <string name="image1">Image</string>
+    <string name="imageButton1">ImageButton</string>
+    <string name="switch1">Show/Hide Image    </string>
+    <string name="radioButton1">Enabled</string>
+    <string name="radioButton2">Disabled</string>
+    <string name="checkBox1">Show image Button</string>
+    <string name="button1">Refresh</string>
+
+</resources>
